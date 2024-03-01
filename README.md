@@ -1,5 +1,4 @@
-# Installation Commands for Truffle, Node.js, and npm
-
+# Hello World Blockchain Program in Solidity
 Before starting with the Hello World blockchain program, ensure you have Node.js, npm, and the Truffle framework installed. Here are the commands to install these tools:
 
 ## Install Node.js and npm
@@ -13,8 +12,6 @@ Once Node.js and npm are installed, use the following npm command to install Tru
 ```bash
 npm install -g truffle
 ```
-
-# Hello World Blockchain Program in Solidity
 
 ## Create a New Project
 
